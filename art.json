@@ -1,0 +1,23 @@
+{  "article": [
+      {
+         "id":"01",
+         "language": "JSON",
+         "edition": "first",
+         "author": "Peter Chan"
+      },
+
+      {
+         "id":"02",
+         "language": "Python",
+         "edition": "second",
+         "author": "Mary Wong"
+      }
+   ],
+
+   "blog":[
+   {
+       "name": "VTC",
+       "URL":"vtc.edu.hk"
+   }
+   ]
+}
